@@ -1,4 +1,4 @@
-# Prova — Sistema de Gestão de Notas com Disciplinas - N1
+# Aula 8 — Sistema de Gestão de Notas com Disciplinas
 
 ## Autor
 
