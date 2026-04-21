@@ -1,0 +1,16 @@
+{
+  "alunos": [
+    {
+      "id": 1776781579565,
+      "nome": "GUILHERME",
+      "disciplinas": [
+        {
+          "nome": "CIENCIA DE DADOS",
+          "notas": [
+            120
+          ]
+        }
+      ]
+    }
+  ]
+}
