@@ -101,10 +101,3 @@ npm start
 * As notas são armazenadas dentro de disciplinas
 * Cada aluno possui um array de disciplinas
 * Cada disciplina possui um array de notas
-
-## Melhorias Futuras
-
-* Autenticação com login
-* Interface mais amigável (UI/UX)
-* Cálculo de média por disciplina
-* Deploy online (Render ou Vercel)
